@@ -27,5 +27,6 @@ I don't have expirience at real projects.
 2. **Courses**: 
  * HTML Academy
  * CS50 lectures
+ * EPAM C# (didn't finish)
 ## English
 A2 (I can read technical literature). B1 in progress...
